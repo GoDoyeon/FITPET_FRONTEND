@@ -12,7 +12,7 @@
 
 <h4><a href="https://www.notion.so/FITPET-d85e24eb8e954970a2a70af180d75310" target="_blank"> Notion</a><h4>
 
-개발기간  2021.07 ~ 진행 중
+개발기간  2021.07 ~ 2021.11
 <br/>
 <br/>
 ### 👨‍👩‍👧‍👧 팀 구성
